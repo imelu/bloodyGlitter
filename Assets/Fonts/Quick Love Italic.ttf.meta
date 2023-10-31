@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 7338b3b121d48c94e8d0aa24a8fdefd0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Quick Love
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 718e5feb35491de49b1ed1bd0015a1ee, type: 3}
+  - {fileID: 12800000, guid: 2089c76f73b602844a6f6f05246ff806, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

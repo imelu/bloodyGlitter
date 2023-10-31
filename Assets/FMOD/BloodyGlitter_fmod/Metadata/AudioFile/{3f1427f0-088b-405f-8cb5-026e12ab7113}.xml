@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{3f1427f0-088b-405f-8cb5-026e12ab7113}">
+		<property name="assetPath">
+			<value>sfx_endscreen_explosion_1.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>19.006666666666668</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ba9bb68a-ba99-48d0-9da4-c877112f3423}</destination>
+		</relationship>
+	</object>
+</objects>

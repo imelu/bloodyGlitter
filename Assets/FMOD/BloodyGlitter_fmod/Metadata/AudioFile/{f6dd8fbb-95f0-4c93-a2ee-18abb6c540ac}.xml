@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{f6dd8fbb-95f0-4c93-a2ee-18abb6c540ac}">
+		<property name="assetPath">
+			<value>mus_metalrriffs_gorepp_2.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>34.025333333333336</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ba9bb68a-ba99-48d0-9da4-c877112f3423}</destination>
+		</relationship>
+	</object>
+</objects>

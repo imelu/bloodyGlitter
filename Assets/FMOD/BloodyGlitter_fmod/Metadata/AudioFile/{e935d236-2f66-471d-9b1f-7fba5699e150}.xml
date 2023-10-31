@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{e935d236-2f66-471d-9b1f-7fba5699e150}">
+		<property name="assetPath">
+			<value>sfx_npp_grabbed_2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.3560000000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ba9bb68a-ba99-48d0-9da4-c877112f3423}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{4bfbc0a3-dc76-4e36-ac21-65a81765e5f8}">
+		<property name="assetPath">
+			<value>sfx_atmo_arena_1.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>62.697333333333333</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ba9bb68a-ba99-48d0-9da4-c877112f3423}</destination>
+		</relationship>
+	</object>
+</objects>

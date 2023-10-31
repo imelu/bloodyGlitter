@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e7944dd4671915e468793fad15d0cb2a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Zombie Monster
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a2cb5c6a466755a4ebe03d55e8a6eabc, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
